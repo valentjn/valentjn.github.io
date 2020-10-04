@@ -1,0 +1,18 @@
+entries:
+  - title: "sidebar"
+    product: "valentjn.github.io"
+    version: ""
+    folders:
+      - title: "Documentation"
+        output: "web"
+        folderitems:
+          - title: "Homepage"
+            url: "/index.html"
+            type: "homepage"
+            output: "web"
+          - title: "vscode-ltex (LT<sub>E</sub>X)"
+            url: "/vscode-ltex/"
+            output: "web"
+          - title: "class-notes"
+            url: "/class-notes/"
+            output: "web"

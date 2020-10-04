@@ -1,0 +1,8 @@
+/.jekyll-metadata
+/Gemfile.lock
+
+/.bundle/
+/.vscode/
+/_site/
+
+__pycache__/
