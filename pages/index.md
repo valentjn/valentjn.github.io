@@ -5,7 +5,7 @@ sidebar: "sidebar"
 toc: false
 ---
 
-Welcome to valentjn.github.io, the place for published documentation for [@valentjn's GitHub repositories](https://github.com/valentjn).
+Welcome to valentjn.github.io, the place for published documentation of [@valentjn's GitHub repositories](https://github.com/valentjn).
 
 Documentation is available for the following repositories:
 
@@ -14,4 +14,4 @@ Documentation is available for the following repositories:
 | **vscode-ltex** | [Docs](https://valentjn.github.io/vscode-ltex/) | [GitHub](https://github.com/valentjn/vscode-ltex) | LT<sub>E</sub>X, grammar/spell checker for VS Code with LanguageTool and LaTeX support |
 | **class-notes** | [Docs](https://valentjn.github.io/class-notes/) | [GitHub](https://github.com/valentjn/class-notes) | L<sup>A</sup>T<sub>E</sub>X-ed class notes (German) taken during various mathematics and computer science classes |
 
-Keep in mind that there are more repositories available on [@valentjn's GitHub page](https://github.com/valentjn).
+Keep in mind that more repositories are available on [@valentjn's GitHub page](https://github.com/valentjn).
